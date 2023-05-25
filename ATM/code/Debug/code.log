@@ -1,0 +1,3 @@
+﻿  code.cpp
+C:\Users\mk979\Desktop\code\code\code.cpp(43,18): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  code.vcxproj -> C:\Users\mk979\Desktop\code\Debug\code.exe
